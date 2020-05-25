@@ -83,3 +83,17 @@ h1 {
   font-style: italic;
   font-weight: bold;
 }
+
+@media screen and (max-width: 1000px) and (min-width: 700px) {
+  body {
+    background-color: palegreen;
+    color: rgb(177, 30, 30);
+  }   
+}
+
+@media screen and (max-width: 480px) and (min-width: 300px) {
+  body {
+    background-color: blue;
+    color: orange;
+  }   
+}
