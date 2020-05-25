@@ -1,0 +1,85 @@
+h1 {
+  font-weight: bold;
+  font-size: 40 pixels;
+  text-align: center;
+  border: 2px dashed purple;
+  font-family: Helvetica;
+  background-color: cyan;
+
+}
+
+.pets1 {
+  width: 250px;
+  float: left;
+  margin: 40px;
+}
+
+.pets1 p {
+  background-color: yellow;
+  font-family: sans-serif;
+}
+
+
+.pets1 h2 {
+  color: red;
+}
+
+.pets1 img {
+    border: 5px solid red;
+    border-radius: 25px;
+}
+
+.pets1 p a {
+  font-style: italic;
+  font-weight: bold;
+}
+
+.pets2 {
+    width: 250px;
+    float: left;
+    margin: 40px;
+}
+
+.pets2 p {
+  background-color: yellow;
+  font-family: sans-serif;
+}
+
+.pets2 h2 {
+  color: orange;
+}
+
+.pets2 img {
+  border: 5px solid orange;
+  border-radius: 25px;
+}
+
+.pets2 p a {
+  font-style: italic;
+  font-weight: bold;
+}
+
+.pets3 {
+  width: 250px;
+  float: left;
+  margin: 40px;
+}
+
+.pets3 p {
+  background-color: yellow;
+  font-family: sans-serif;
+}
+
+.pets3 h2 {
+  color: green;
+}
+
+.pets3 img {
+  border: 5px solid green;
+  border-radius: 25px;
+}
+
+.pets3 p a {
+  font-style: italic;
+  font-weight: bold;
+}
